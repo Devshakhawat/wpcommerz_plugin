@@ -1,0 +1,13 @@
+{
+    "name": "wordpress/plugin",
+    "description": "this is basic plugin",
+    "type": "wordpress-plugin",
+    "license": "gplv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wpcommerz\\": "includes/"
+        }
+    }
+}
