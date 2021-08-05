@@ -60,7 +60,7 @@ class Wpcommerz_Custom_Post {
             'has_archive'        => true,
             'hierarchical'       => false,
             'menu_position'      => null,
-            'supports'           => array( 'title', 'editor', 'author', 'thumbnail', 'excerpt', 'comments' ),
+            'supports'           => array( 'title',  'thumbnail' ),
         );
           
         register_post_type( 'wpcommerzgroup', $args );

@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '70fd3ea32ae9dd6fa40cefff0c959dc5d6b7d7d8',
     'name' => 'wordpress/plugin',
   ),
   'versions' => 
   array (
     'wordpress/plugin' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '70fd3ea32ae9dd6fa40cefff0c959dc5d6b7d7d8',
     ),
   ),
 );
